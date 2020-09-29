@@ -11,4 +11,4 @@
 - [httploader.js](https://github.com/mirkobrombin/httploader.js)
 
 
-Find more in [my website](https://mirko.pm/projects).
+Find more on [my website](https://mirko.pm/projects).
