@@ -9,4 +9,6 @@
 - [unified/ban](https://github.com/unified-ban)
 - [autosummary.js](https://github.com/mirkobrombin/autosummary.js)
 - [httploader.js](https://github.com/mirkobrombin/httploader.js)
-find more in [my website](https://mirko.pm/projects).
+
+
+Find more in [my website](https://mirko.pm/projects).
