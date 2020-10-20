@@ -7,6 +7,7 @@
 #### Where are my projects?
 For better organization, I have moved all my repositories into one space.
 Check my public profile here: https://git.mirko.pm/brombinmirko
+However some of my more "popular" repositories will also remain available on **GitHub as a mirror**.
 
 All repositories that are part of an organization will remain here on GitHub:
 - [linux/hub](https://github.com/linuxhubit)
