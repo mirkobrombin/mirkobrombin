@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Biskuit](https://github.com/biskuitorg/biskuit) and a racing video game.
+- 🔭 I’m currently working on [Biskuit](https://github.com/biskuitorg/biskuit), a new version of Bottles and a racing video game.
 - 🌱 I’m learning 3D modeling.
 - 📫 You can reach me via [e-mail](mailto:send@mirko.pm) or [Telegram](https://t.me/brombinmirko).
 
