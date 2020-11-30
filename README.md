@@ -15,6 +15,7 @@ All repositories that are part of an organization will remain here on GitHub:
 - [unified/ban](https://github.com/unified-ban)
 
 #### Latest projects
+- [Bottles v2](https://github.com/mirkobrombin/Bottles/tree/develop)
 - [httploader.js](https://git.mirko.pm/brombinmirko/httploader-js)
 - [autosummary.js](https://git.mirko.pm/brombinmirko/autosummary-js)
 - [Biskuit CMS](https://github.com/biskuitorg/biskuit)
