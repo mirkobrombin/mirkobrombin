@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🔭 I’m currently working on [Biskuit](https://github.com/biskuitorg/biskuit), a new version of [Bottles](https://github.com/bottlesdevs/Bottles/tree/develop) and a racing video game.
 - 🌱 I’m learning 3D modeling.
 - 📫 You can reach me via [e-mail](mailto:send@mirko.pm) or [Telegram](https://t.me/brombinmirko).
