@@ -10,6 +10,7 @@ However some of my more "popular" repositories will also remain available on **G
 
 All repositories that are part of an organization will remain here on GitHub:
 - [linux/hub](https://github.com/linuxhubit)
+- [BottlesDevs](https://github.com/bottlesdevs)
 - [Biskuit](https://github.com/biskuitorg)
 - [unified/ban](https://github.com/unified-ban)
 
