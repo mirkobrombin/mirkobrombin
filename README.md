@@ -3,12 +3,7 @@
 - 🌱 I’m learning 3D modeling.
 - 📫 You can reach me via [e-mail](mailto:send@mirko.pm) or [Telegram](https://t.me/brombinmirko).
 
-#### Where are my projects?
-For better organization, I have moved all my repositories into one space.
-Check my public profile here: https://git.mirko.pm/brombinmirko
-However some of my more "popular" repositories will also remain available on **GitHub as a mirror**.
-
-All repositories that are part of an organization will remain here on GitHub:
+#### Organizations
 - [linux/hub](https://github.com/linuxhubit)
 - [BottlesDevs](https://github.com/bottlesdevs)
 - [Biskuit](https://github.com/biskuitorg)
