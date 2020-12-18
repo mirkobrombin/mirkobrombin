@@ -17,4 +17,4 @@
 - [unified/ban Terminal](https://github.com/unified-ban/Terminal)
 
 
-Find more on [my website](https://mirko.pm/projects) and [Personal GitLab](https://git.mirko.pm).
+Find more on [my website](https://mirko.pm/projects) and [Personal Git](https://git.mirko.pm).
