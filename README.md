@@ -3,6 +3,9 @@
 - 🌱 I’m learning 3D modeling.
 - 📫 You can reach me via [e-mail](mailto:send@mirko.pm) or [Telegram](https://t.me/brombinmirko).
 
+![mirkobrombin's github stats](https://github-readme-stats.vercel.app/api?username=mirkobrombin&custom_title=Stats&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkobrombin&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Organizations
 - [linux/hub](https://github.com/linuxhubit)
 - [BottlesDevs](https://github.com/bottlesdevs)
