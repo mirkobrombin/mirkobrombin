@@ -3,6 +3,9 @@
 - 🌱 I’m learning 3D modeling.
 - 📫 You can reach me via [e-mail](mailto:send@mirko.pm) or [Telegram](https://t.me/brombinmirko).
 
+![](https://raw.githubusercontent.com/mirkobrombin/github-stats/master/generated/overview.svg)
+![](https://github.com/mirkobrombin/github-stats/blob/master/generated/languages.svg)
+
 #### Organizations
 - [linux/hub](https://github.com/linuxhubit)
 - [BottlesDevs](https://github.com/bottlesdevs)
