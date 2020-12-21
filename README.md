@@ -13,11 +13,10 @@
 - [unified/ban](https://github.com/unified-ban)
 
 #### Latest projects
-- [Bottles v2](https://github.com/mirkobrombin/Bottles/tree/develop)
-- [httploader.js](https://git.mirko.pm/brombinmirko/httploader-js)
-- [autosummary.js](https://git.mirko.pm/brombinmirko/autosummary-js)
-- [Biskuit CMS](https://github.com/biskuitorg/biskuit)
-- [unified/ban Terminal](https://github.com/unified-ban/Terminal)
-
+- [Bottles v2 :wine_glass:](https://github.com/mirkobrombin/Bottles/tree/develop)
+- [httploader.js :rocket:](https://git.mirko.pm/brombinmirko/httploader-js)
+- [autosummary.js :bookmark:](https://git.mirko.pm/brombinmirko/autosummary-js)
+- [Biskuit CMS :cookie:](https://github.com/biskuitorg/biskuit)
+- [unified/ban Terminal :fire:](https://github.com/unified-ban/Terminal)
 
 Find more on [my website](https://mirko.pm/projects) and [Personal Git](https://git.mirko.pm).
