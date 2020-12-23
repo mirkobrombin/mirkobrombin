@@ -13,9 +13,9 @@
 - [unified/ban](https://github.com/unified-ban)
 
 #### Latest projects
-- [Bottles v2 :wine_glass:](https://github.com/mirkobrombin/Bottles/tree/develop)
-- [httploader.js :rocket:](https://git.mirko.pm/brombinmirko/httploader-js)
-- [autosummary.js :bookmark:](https://git.mirko.pm/brombinmirko/autosummary-js)
+- [Bottles v2 :wine_glass:](https://github.com/bottlesdevs/Bottles)
+- [httploader.js :rocket:](https://github.com/mirkobrombin/httploader.js)
+- [autosummary.js :bookmark:](https://github.com/mirkobrombin/autosummary.js)
 - [Biskuit CMS :cookie:](https://github.com/biskuitorg/biskuit)
 - [unified/ban Terminal :fire:](https://github.com/unified-ban/Terminal)
 
