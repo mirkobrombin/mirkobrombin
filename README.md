@@ -13,7 +13,7 @@
 - [unified/ban](https://github.com/unified-ban)
 
 #### Latest projects
-- [Bottles v2 :wine_glass:](https://github.com/bottlesdevs/Bottles)
+- [Bottles v3 :wine_glass:](https://github.com/bottlesdevs/Bottles)
 - [httploader.js :rocket:](https://github.com/mirkobrombin/httploader.js)
 - [autosummary.js :bookmark:](https://github.com/mirkobrombin/autosummary.js)
 - [Biskuit CMS :cookie:](https://github.com/biskuitorg/biskuit)
