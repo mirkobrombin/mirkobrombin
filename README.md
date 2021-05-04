@@ -11,8 +11,10 @@
 - [BottlesDevs](https://github.com/bottlesdevs)
 - [Biskuit](https://github.com/biskuitorg)
 - [unified/ban](https://github.com/unified-ban)
+- [fabricatorsltd](https://github.com/fabricatorsltd)
 
 #### Latest projects
+- [Amusiz :musical_note:](https://github.com/mirkobrombin/Amusiz)
 - [Bottles v3 :wine_glass:](https://github.com/bottlesdevs/Bottles)
 - [httploader.js :rocket:](https://github.com/mirkobrombin/httploader.js)
 - [autosummary.js :bookmark:](https://github.com/mirkobrombin/autosummary.js)
