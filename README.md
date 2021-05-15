@@ -14,8 +14,9 @@
 - [fabricatorsltd](https://github.com/fabricatorsltd)
 
 #### Latest projects
+- [Twitz :movie_camera:](https://github.com/mirkobrombin/Twitz)
 - [Amusiz :musical_note:](https://github.com/mirkobrombin/Amusiz)
-- [Bottles v3 :wine_glass:](https://github.com/bottlesdevs/Bottles)
+- [Bottles :wine_glass:](https://github.com/bottlesdevs/Bottles)
 - [httploader.js :rocket:](https://github.com/mirkobrombin/httploader.js)
 - [autosummary.js :bookmark:](https://github.com/mirkobrombin/autosummary.js)
 - [Biskuit CMS :cookie:](https://github.com/biskuitorg/biskuit)
