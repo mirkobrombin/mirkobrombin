@@ -14,13 +14,14 @@
 - [fabricatorsltd](https://github.com/fabricatorsltd)
 
 #### Latest projects
+- [BetterCallSolus](https://github.com/mirkobrombin/BetterCallSolus)
 - [Twitz :movie_camera:](https://github.com/mirkobrombin/Twitz)
-- [Amusiz :musical_note:](https://github.com/mirkobrombin/Amusiz)
 - [Bottles :wine_glass:](https://github.com/bottlesdevs/Bottles)
 - [httploader.js :rocket:](https://github.com/mirkobrombin/httploader.js)
 - [autosummary.js :bookmark:](https://github.com/mirkobrombin/autosummary.js)
 - [Biskuit CMS :cookie:](https://github.com/biskuitorg/biskuit)
 - [unified/ban Terminal :fire:](https://github.com/unified-ban/Terminal)
+- [Amusiz :musical_note:](https://github.com/mirkobrombin/Amusiz)
 
 Find more on [my website](https://mirko.pm/projects) and [Personal Git](https://git.mirko.pm).
 
