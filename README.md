@@ -23,6 +23,6 @@
 - [unified/ban Terminal :fire:](https://github.com/unified-ban/Terminal)
 - [Amusiz :musical_note:](https://github.com/mirkobrombin/Amusiz)
 
-Find more on [my website](https://mirko.pm/projects) and [Personal Git](https://git.mirko.pm).
+Find more on [my website](https://mirko.pm/projects).
 
 Italian Linux user? You may find my [portal](https://linuxhub.it) interesting.
