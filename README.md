@@ -5,12 +5,14 @@
 
 #### Organizations
 - [BottlesDevs](https://github.com/bottlesdevs)
+- [AtomsDevs](https://github.com/atomsdevs)
 - [AtomsDevs](https://github.com/AtomsDevs)
 - [fabricatorsltd](https://github.com/fabricatorsltd)
 - [unified/ban](https://github.com/unified-ban)
 - [linux/hub](https://github.com/linuxhubit)
 
 #### Latest projects
+- [Atoms](https://github.com/atomsdevs/Atoms)
 - [FVS](https://github.com/mirkobrombin/FVS)
 - [runtimezilla](https://github.com/mirkobrombin/runtimezilla)
 - [Twitz](https://github.com/mirkobrombin/Twitz)
