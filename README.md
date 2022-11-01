@@ -11,6 +11,7 @@
 - [linux/hub](https://github.com/linuxhubit)
 
 #### Latest projects
+- [Vanilla OS](https://github.com/atomsdevs/vanilla-os)
 - [Atoms](https://github.com/atomsdevs/Atoms)
 - [FVS](https://github.com/mirkobrombin/FVS)
 - [runtimezilla](https://github.com/mirkobrombin/runtimezilla)
