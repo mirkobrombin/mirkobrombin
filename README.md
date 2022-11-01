@@ -5,6 +5,7 @@
 
 #### Organizations
 - [BottlesDevs](https://github.com/bottlesdevs)
+- [Vanilla OS](https://github.com/vanilla-os)
 - [AtomsDevs](https://github.com/AtomsDevs)
 - [fabricatorsltd](https://github.com/fabricatorsltd)
 - [unified/ban](https://github.com/unified-ban)
